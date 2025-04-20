@@ -43,18 +43,6 @@ This project focuses on the binary classification of skin images as Infected or 
 This project integrates Grad-CAM to highlight which regions of the image the model focused on during classification, enhancing trust and transparency in AI-driven diagnostics.
 
 
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run training
-python train_cnn.py
-
-# Run Grad-CAM
-python gradcam.py
 
 
 
